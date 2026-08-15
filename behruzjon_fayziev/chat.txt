@@ -1,0 +1,2 @@
+Q: What is the purpose of feature branches in Git?
+A: Feature branches allow developers to work on new features in isolation without affecting the main codebase.
